@@ -17,7 +17,7 @@ public class Main {
         if (hayNegativos == true) {
             JOptionPane.showMessageDialog(null, "Hubo al menos un numero negativo");
         } else {
-            JOptionPane.showMessageDialog(null, "No hubieron numeros negativos");
+            JOptionPane.showMessageDialog(null, "No hubieron numeros negativos turrito");
         }
     }
 }
